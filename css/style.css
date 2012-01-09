@@ -318,6 +318,14 @@ p {
 
 code {
 	white-space:pre;
+	background-color: #F8F8F8;
+	border: 1px solid #CCCCCC;
+	border-radius: 3px 3px 3px 3px;
+	font-size: 19px;
+	line-height: 25px;
+	overflow: auto;
+	padding: 6px 10px;
+	display: block;
 }
 
 
